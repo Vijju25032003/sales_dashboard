@@ -66,3 +66,6 @@ Power BI
 SQL (for data modeling & views)
 
 DAX (for calculated measures & KPIs)
+
+<img width="1478" height="830" alt="Screenshot 2025-12-16 110055" src="https://github.com/user-attachments/assets/b2dd44d1-4718-4df3-8ade-3b5d0555ac38" />
+
